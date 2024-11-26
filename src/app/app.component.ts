@@ -9,6 +9,6 @@ import { Component } from '@angular/core';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'FitnessApp';
+  title = 'Tuckwood';
   year = new Date().getFullYear()
 }
