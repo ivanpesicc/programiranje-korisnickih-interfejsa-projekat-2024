@@ -9,4 +9,14 @@ import { Component } from '@angular/core';
 })
 export class LoginComponent {
 
+public email = ""
+public password = "" 
+
+public onSubmit() {
+    console.log(this.email, this.password)
 }
+
+}
+
+
+// FormsModule, RouterLink
