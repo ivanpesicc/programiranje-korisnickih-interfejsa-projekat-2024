@@ -1,0 +1,11 @@
+.card-custom-form {
+    width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media only screen and (max-width: 1200px) {
+    .card-custom-form {
+        width: 100%
+    }    
+  }
